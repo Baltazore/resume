@@ -1,71 +1,86 @@
-Markdown Resumé
+Kirill Shaplyko
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+
+Contact
+--------
+
+*   Email: [k.shaplyko@gmail.com](mailto:k.shaplyko@gmail.com)
+*   Skype: [k.shaplyko](skype:k.shaplyko)
+*   Phone: +66 61 576 13 50, +375 336 37 60 90
+*   Github: [Baltazore](https://github.com/baltazore)
+*   LinkedIn: [Kirill Shaplyko](https://www.linkedin.com/pub/kirill-shaplyko/61/473/9a1/en)
+*   Twitter: [_baltazore](http://twitter.com/_baltazore)
 
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   Software Development using the latest edge of the technologies like Ruby,
+    NodeJS, Elixir and expanding my skills in DevOps like Chef, Ansible, Vagrant,
+    Docker and FrontEnd.
 
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **GameHouse**
 
-    Junior Resumé Maker, 2006 - 2007
+    Software Developer, 2013 - current
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   Developing the application using Ruby on Rails, NodeJS, MongoDB, Redis,
+        AngularJS.
+    -   Working on the deployments tasks. Learning Ansible and Docker for
+        building container based hosts.
+    -   Developing the advertisement platform for the mobile devices.
+    -   Brainstorm and prototype the new approach for some parts of the
+        application.
+    -   Writing specs and cucumber scenarios for integration tests for our API
+        endpoints.
 
-*   **\LaTeX\ + pdflatex**
+*   **RubyRoid Labs**
 
-    Senior Resumé Maker, 2008 - 2010
+    Software Developer, 2013 - 2014
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -   I was working on document generation system. The project includes
+    document generation, task management for Police Department, Hospitals, ect.
+    Used Ruby on Rails, PostgreSQL, AngularJS
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+*   **Itransition**
 
-    Web Resumé Intern, August 2010
+    Ruby on Rails Developer, 2012-2013
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    -   As Ruby developer I was working on mobile advertising platform for
+    back-end, front-end and mobile clients API for iOS and Android. The project
+    is intended to increase sales for businesses by providing discounts.
+    Using Ruby on Rails, MySQL, Redis, Sidekiq, Faye, Pushover.
+    -   As Ruby developer I was working on online auction system. Full auction
+    workflow support (from creating to send notification about winnign beds).
+    Dealing with admin panel, server back-end for real-time bid system.
+    Using Ruby on Rails, Redis, MySQL, Faye, MongoDB, Rescue
+    -   As Ruby developer I was working on Social Media Aggregation System. It
+    aggregates data by keywords from Facebook, Twitter, Sysomos(15+ servises),
+    Google News, Google Blogs, Youtube, Google Images and Vocus(Print media and
+    Blogspot). Dealing with main aggregation gateways, alert system(sms, email),
+    report system(pdf, plain text, html). Used Ruby on Rails, MySQL, Facebook,
+    Twitter, Klout APIs.
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Belarussian State of Informatics and Radioelectronics**
 
-    B.S. in Submodules, May 2012
+    B.S. in Computer Science, May 2014
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   Very experienced with Ruby, JavaScript.
 
-*   Familiar with GNU Make, bash
+*   Ruby on Rails 2-4, NodeJS, Elixir, AngularJS, RSpec, Cucumber, MongoDB, PostgreSQL
 
+*   Using RSpec, Cucumber and other unit tests libraries
+
+*   Using Vim / Tmux for the development
 
