@@ -83,5 +83,5 @@ Skills
 
 *   RSpec, Cucumber, MiniTest
 
-*   Using Vim / Tmux for the development
+*   Vim / Tmux for the development
 
