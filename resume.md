@@ -17,7 +17,7 @@ Interests
 
 *   Software Development using the latest edge of the technologies like Ruby,
     NodeJS, Elixir and expanding my skills in DevOps like Chef, Ansible, Vagrant,
-    Docker and FrontEnd.
+    Docker and in front-end like AngularJS, EmberJS, ReactJS.
 
 
 Work Experience
@@ -41,28 +41,31 @@ Work Experience
 
     Software Developer, 2013 - 2014
 
-    -   I was working on document generation system. The project includes
-    document generation, task management for Police Department, Hospitals, ect.
-    Used Ruby on Rails, PostgreSQL, AngularJS
+    -   Document generation system. The project includes document generation,
+    task management for Police Department, Hospitals, ect.
+    Technologies: Ruby on Rails, PostgreSQL, AngularJS, Elasticsearch
 
 *   **Itransition**
 
     Ruby on Rails Developer, 2012-2013
 
-    -   As Ruby developer I was working on mobile advertising platform for
-    back-end, front-end and mobile clients API for iOS and Android. The project
-    is intended to increase sales for businesses by providing discounts.
-    Using Ruby on Rails, MySQL, Redis, Sidekiq, Faye, Pushover.
-    -   As Ruby developer I was working on online auction system. Full auction
-    workflow support (from creating to send notification about winnign beds).
-    Dealing with admin panel, server back-end for real-time bid system.
-    Using Ruby on Rails, Redis, MySQL, Faye, MongoDB, Rescue
-    -   As Ruby developer I was working on Social Media Aggregation System. It
-    aggregates data by keywords from Facebook, Twitter, Sysomos(15+ servises),
-    Google News, Google Blogs, Youtube, Google Images and Vocus(Print media and
-    Blogspot). Dealing with main aggregation gateways, alert system(sms, email),
-    report system(pdf, plain text, html). Used Ruby on Rails, MySQL, Facebook,
-    Twitter, Klout APIs.
+    -   Mobile advertising platform for back-end, front-end and mobile clients
+    API for iOS and Android. The project is intended to increase sales for
+    businesses by providing discounts.
+
+    Technologies: Ruby on Rails, MySQL, Redis, Sidekiq, Faye, Pushover.
+    -   Online auction system. Full auction workflow support (from creating to
+    send notification about winnign beds). Dealing with admin panel, server
+    back-end for real-time bid system.
+    Technologies: Ruby on Rails, Redis, MySQL, Faye, MongoDB, Rescue
+
+    -   Social Media Aggregation System. It aggregates data by keywords from
+    Facebook, Twitter, Sysomos (15+ servises), Google News, Google Blogs,
+    Youtube, Google Images and Vocus (Print media and Blogspot). Dealing with
+    main aggregation gateways, alert system (sms, email), report system (pdf,
+    plain text, html).
+    Technologies: Ruby on Rails, MySQL, Facebook, Twitter, Klout APIs,
+    Elasticsearch
 
 
 Education
@@ -76,11 +79,9 @@ Education
 Skills
 ------
 
-*   Very experienced with Ruby, JavaScript.
+*   Ruby (Sinatra, Grape, Ruby on Rails 2-4), Elixir, Javascript (AngularJS, EmberJS, ReactJS), MySQL, MongoDB, PostgreSQL, Elasticsearch
 
-*   Ruby on Rails 2-4, NodeJS, Elixir, AngularJS, RSpec, Cucumber, MongoDB, PostgreSQL
-
-*   Using RSpec, Cucumber and other unit tests libraries
+*   RSpec, Cucumber, MiniTest
 
 *   Using Vim / Tmux for the development
 
