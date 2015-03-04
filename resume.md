@@ -7,7 +7,7 @@ Contact
 
 *   Email: [k.shaplyko@gmail.com](mailto:k.shaplyko@gmail.com)
 *   Skype: [k.shaplyko](skype:k.shaplyko)
-*   Phone: +66 61 576 13 50, +375 336 37 60 90
+*   Phone: +375 336 37 60 90
 *   Github: [Baltazore](https://github.com/baltazore)
 *   LinkedIn: [Kirill Shaplyko](https://www.linkedin.com/pub/kirill-shaplyko/61/473/9a1/en)
 *   Twitter: [_baltazore](http://twitter.com/_baltazore)
@@ -15,7 +15,7 @@ Contact
 Overview
 --------
 
-*   I am a web developer with extensive knowledge and experience using Ruby and Javascript. My most recent experience has been as a full stack web developer at mobile advertising startup.
+*   I am a web developer with extensive knowledge and experience in Ruby and JavaScript. My most recent experience has been as a full stack web developer at mobile advertising startup.
 *   You can find some of my work on Github [profile](http://github.com/Baltazore). My recent technological interests and passions include the ReactJS and Flux, AngularJS/EmberJS front-end javascript framework, and experimenting with writing back-end services in Go and Elixir.
 
 
