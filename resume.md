@@ -9,7 +9,7 @@ Contact
 *   Skype: [k.shaplyko](skype:k.shaplyko)
 *   Phone: +375 336 37 60 90
 *   Github: [Baltazore](https://github.com/baltazore)
-*   LinkedIn: [Kirill Shaplyko](https://www.linkedin.com/pub/kirill-shaplyko/61/473/9a1/en)
+*   LinkedIn: [Kirill Shaplyko](https://www.linkedin.com/in/kirillshaplyko)
 *   Twitter: [_baltazore](http://twitter.com/_baltazore)
 
 Overview
