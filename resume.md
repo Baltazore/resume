@@ -75,10 +75,9 @@ Education
 Technology Focus
 ---------------
 
-*   **Programming Languages:** Ruby, Javascript, SQL, HTML5, CSS
+*   **Programming Languages:** Ruby, Javascript, Elixir
 *   **Web Frameworks:** Ruby on Rails, Sintra, Rack, Node.js
-*   **Frontend Web Frameworks:** ReactJS and Flux, AngularJS, EmberJS, jQuery,
-jQuery UI, Twitter Bootstrap(2,3), Zurb Foundation(3, 4, 5)
+*   **Frontend Web Frameworks:** ReactJS and Flux, AngularJS, EmberJS, jQuery UI, Twitter Bootstrap(2,3), Zurb Foundation(3, 4, 5)
 *   **DevOps:** AWS (EC2, S3, Route53), Heroku, Chef, Ansible, Capistrano
 *   **Operating Systems:** Linux (Ubuntu, Fedora, and CoreOS), Mac OS X, Windows
 *   **Programming Editors/IDEs:** vim, emacs, tmux, JetBrains RubyMine
