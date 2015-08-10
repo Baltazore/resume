@@ -10,10 +10,10 @@ pdf:   clean $(PDFS)
 html:  clean $(HTML)
 
 %.html: %.md
-	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
+	python resume.py html $(GRAVATAR_OPTION) < $< | /usr/local/Cellar/pandoc1131/1.13.1/bin/pandoc -t html -c resume.css -o $@
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
-	python resume.py tex < $< | pandoc $(PANDOCARGS) --template=$(LATEX_TEMPLATE) -H header.tex -o $@
+	python resume.py tex < $< |  /usr/local/Cellar/pandoc1131/1.13.1/bin/pandoc $(PANDOCARGS) --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
 ifeq ($(OS),Windows_NT)
   # on Windows
