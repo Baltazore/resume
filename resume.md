@@ -1,7 +1,6 @@
 Kirill Shaplyko
 ===============
 
-
 Contact
 --------
 
